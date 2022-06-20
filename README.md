@@ -8,6 +8,14 @@ We recommend using the live sass compiler extension in VSCode.
 
 This assessment should take between 60 and 90 minutes to complete.
 
+## Instructions
+
+1. Clone this repo locally (do not fork)
+2. Create a new public repo on GitHub
+3. Change your local remote to your new repository
+4. Complete the assessment
+5. Submit a link to your repository to Underwaterpistol
+
 ## Criteria 
 
 Areas that we will use to assess your suitability include the following:
