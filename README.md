@@ -80,7 +80,7 @@ All PUT requests should respond with the data of the updated resource AFTER upda
 Params:
 * name `String - optional`
 * email `String - optional`
-* age `String - optional`
+* age `Integer - optional`
 
 Updates an existing person record with any new values in passed parameters. Returns 404 if person wasn't found, 400 if any parameters cannot be cast to the correct type, or 200 if the person was updated. 
 
