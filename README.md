@@ -49,7 +49,7 @@ Returns a JSON representation of a person by ID. Returns 404 if a person is not 
 Returns a JSON representation of a pet by ID. Returns 404 if a pet is not found with this ID.
 
 `GET /people/:id/pets`
-Returns a JSON representation of a person by ID. Returns a 404 if a person is not found with this ID, but returns an empty array if the person has no pets.
+Returns an array of a person's pets by ID. Returns a 404 if a person is not found with this ID, but returns an empty array if the person has no pets.
 
 ### Post
 
