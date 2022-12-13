@@ -2,7 +2,7 @@
 
 In order to assess your suitability for a fullstack developer position at Underwaterpistol we have asked that you complete a short assessment. Your task is to build a `HTTP REST API` that fulfils the requirements set out in the documentation below - you should also include an `index.html` file that connects to your API and lists all records, the specific design of this page is not important but you should attempt to style it with the included `app.scss` file.
 
-Your API can be built with either node.js but we ask that the frontend only uses vanilla Javascript with no libraries or frameworks. Please use the included `app.js` file for frontend script.
+Your API can be built with node.js but we ask that the frontend only uses vanilla Javascript with no libraries or frameworks. Please use the included `app.js` file for frontend script.
 
 We recommend using the live sass compiler extension in VSCode.
 
